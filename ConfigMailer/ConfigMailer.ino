@@ -72,7 +72,3 @@ void loop() {
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   for(;;){ /*empty*/ }
 }
-
-
-
-//myip.opendns.com resolver1.opendns.com
